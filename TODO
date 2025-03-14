@@ -1,0 +1,5 @@
+- monitor health of all osmo processes
+- ability to reassign an MSISDN
+- ability to reassign an IP address
+- ability to assign a custom audio file
+- ability to intercept SMS messages to unknown recipients
